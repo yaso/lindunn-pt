@@ -6,7 +6,7 @@
 
 ### CARTAS
 
-**[1. Linkabilidade](#linkabilidade)** 
+##**[1. Linkabilidade](#linkabilidade)** 
 
  [O que é?](#o-que-é)
 
@@ -28,7 +28,7 @@
 
  [Dados recuperados vinculados (L7)](#dados-recuperados-vinculados-l7) 
 
-**[2. Identificabilidade](#identificabilidade)**
+## **[2. Identificabilidade](#identificabilidade)**
 
  [O que é?](#o-que-é-1) 
 
@@ -50,7 +50,7 @@
 
  [Dados recuperados identificáveis (I7)](#dados-recuperados-identificáveis-i7) 
 
-**[3. Não repúdio](#não-repúdio)** 
+## **[3. Não repúdio](#não-repúdio)** 
 
 [O que é?](#o-que-é-2) 
 
@@ -68,7 +68,7 @@
 
 **[RECUPERAÇÃO DE DADOS NON-REPUTABLE NR5](#recuperação-de-dados-non-reputable-nr5)** 
 
-**[4. Detectabilidade](#detectabilidade)** 
+## **[4. Detectabilidade](#detectabilidade)** 
 
  [O que é?](#o-que-é-3)  
 
