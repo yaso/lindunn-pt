@@ -6,27 +6,38 @@
 
 ### CARTAS
 
-##**[1. Linkabilidade](#linkabilidade)** 
+<details>
 
- [O que é?](#o-que-é)
+<summary>
+<span style="display: inline-block">
 
- [Como assim?](#como-assim)
+### **[1. Linkabilidade](#1-linkabilidade-1)**
 
- [Possíveis consequências:](#possíveis-consequências)
+</span>
+</summary>
 
- [Linkabilidade de credenciais (L1)](#linkabilidade-de-credenciais-l1)
+[O que é?](#o-que-é)
 
- [Vinculação de ações do usuário (L2)](#vinculação-de-ações-do-usuário-l2)
+[Como assim?](#como-assim)
 
- [Linkabilidade na entrada de dados (L3)](#linkabilidade-na-entrada-de-dados-l3) 
+[Possíveis consequências](#possíveis-consequências)
 
- [Linkando os contextos (L4)](#linkando-os-contextos-l4) 
+[Linkabilidade de credenciais (L1)](#linkabilidade-de-credenciais-l1)
 
- [Linkabilidade de dados compartilhados (L5)](#linkabilidade-de-dados-compartilhados-l5) 
+[Vinculação de ações do usuário (L2)](#vinculação-de-ações-do-usuário-l2)
 
- [Linkabilidade de dados guardados (L6)](#linkabilidade-de-dados-guardados-l6) 
+[Linkabilidade na entrada de dados (L3)](#linkabilidade-na-entrada-de-dados-l3) 
 
- [Dados recuperados vinculados (L7)](#dados-recuperados-vinculados-l7) 
+[Linkando os contextos (L4)](#linkando-os-contextos-l4) 
+
+[Linkabilidade de dados compartilhados (L5)](#linkabilidade-de-dados-compartilhados-l5) 
+
+[Linkabilidade de dados guardados (L6)](#linkabilidade-de-dados-guardados-l6) 
+
+[Dados recuperados vinculados (L7)](#dados-recuperados-vinculados-l7) 
+
+</details>
+
 
 ## **[2. Identificabilidade](#identificabilidade)**
 
