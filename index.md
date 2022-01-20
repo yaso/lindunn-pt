@@ -6,14 +6,8 @@
 
 ## CARTAS
 
-<details>
 
-<summary>
-<span style="display: inline-block">
-
-### **[1. Linkabilidade](#linkabilidade)**
-</span>
-</summary>
+### **[1. Linkabilidade](#1-linkabilidade-1)**
 
 [O que é?](#o-que-é)
 
@@ -35,16 +29,10 @@
 
 [Dados recuperados vinculados (L7)](#dados-recuperados-vinculados-l7) 
 
-</details>
 
 
-<details>
-<summary>
-<span style="display: inline-block">
 
-### **[2. Identificabilidade](#identificabilidade)**
-</span>
-</summary>
+### **[2. Identificabilidade](#2-identificabilidade-1)**
 
  [O que é?](#o-que-é-1) 
 
@@ -66,15 +54,10 @@
 
  [Dados recuperados identificáveis (I7)](#dados-recuperados-identificáveis-i7)
  
-</details>
 
-<details>
-<summary>
-<span style="display: inline-block">
 
-### **[3. Não-repúdio](#não-repúdio)** 
-</span>
-</summary>
+### **[3. Não-repúdio](#3-não-repúdio-1)** 
+
 
 [O que é?](#o-que-é-2) 
 
@@ -92,15 +75,10 @@
 
 [Não repúdio na recuperação de dados (NR5)](#não-repúdio-na-recuperação-de-dados-nr5) 
 
-</details>
 
-<details>
-<summary>
-<span style="display: inline-block">
 
-### **[4. Detectabilidade](#detectabilidade)**
-</span>
-</summary>
+### **[4. Detectabilidade](#4-detectabilidade-1)**
+
 
 [O que é?](#o-que-é-3)  
 
@@ -118,15 +96,10 @@
 
 [Detectabilidade na recuperação (D5)](#detectabilidade-na-recuperação-d5) 
 
-</details>
 
-<details>
-<summary>
-<span style="display: inline-block">
 
-### **[5. Unawareness (desconhecimento)](#unawareness-desconhecimento)**
-</span>
-</summary>
+### **[5. Unawareness (desconhecimento)](#5-unawareness-desconhecimento-1)**
+
 
 [O que é?](#o-que-é-4)  
 
@@ -148,15 +121,15 @@
 
 [Falta de suporte para consentimento (U5)](#falta-de-suporte-para-consentimento-u5) 
 
-</details>
 
-<details>
-<summary>
-<span style="display: inline-block">
 
-### **[6. Não-conformidade](#não-conformidade)**
-</span>
-</summary>
+### **[6. Não-conformidade](#6-não-conformidade-1)**
+
+[O que é?](#o-que-é-5) 
+
+[Como assim?](#como-assim-5) 
+
+[Possíveis consequências:](#possíveis-consequências-5) 
 
 [Coleta desproporcional (NC1)](#coleta-desproporcional-nc1) 
 
@@ -167,7 +140,6 @@
 [Tomada de decisão automatizada (NC4)](#tomada-de-decisão-automatizada-nc4) 
 
 [Armazenamento desproporcional (NC5)](#armazenamento-desproporcional-nc5) 
-</details>
 
 ## SOBRE
 
@@ -259,7 +231,7 @@ Em contraste com a modelagem de ameaças à segurança, as ameaças à privacida
 
 **Quase identificador:** pedaço de informação que, por si só não é um identificador único, mas pode ser combinado com outros quase-identificadores para criar um identificador.
 
-## <span style="color:#577BC1"> Linkabilidade </span>
+# <span style="color:#577BC1">*1. Linkabilidade*</span>
 
 ### O que é? 
 É a capacidade de ligação de dois ou mais itens de interesse (ex: pessoas, mensagens, ações, etc. Da perspectiva de um invasor significa que dentro do sistema o invasor pode distinguir se esses itens de interesse estão relacionados ou não, e podem ser utilizados para identificar. 
@@ -431,7 +403,7 @@ O titular dos dados compartilha um conjunto mínimo de informações, mas dadas 
 - As informações podem ser inferidas com base nos dados vinculados
 - A ameaça depende dos dados que a organização já possui
 
-# <span style="color:#95CD41"> *2. Identificabilidade* </span>
+# <span style="color:#95CD41">*2. Identificabilidade*</span>
 
 ### O que é? 
 
@@ -599,7 +571,7 @@ O banco de dados retorna um atributo único (por exemplo, endereço de e-mail, n
 - Garantir o anonimato é difícil. Quanto mais informações
 estiverem vinculadas, mais exclusivas serão, mais difícil garantir o anonimato. 
 
-# <span style="color:#116530"> *3. Não repúdio* </span>
+# <span style="color:#116530">*3. Não repúdio*</span>
 
 ### O que é? 
 
@@ -733,7 +705,7 @@ Os administradores do sistema têm acesso a arquivos de log completos e podem vi
 - O impacto é maior quando a informação recuperada é identificável.
 - Se o não repúdio de certos dados são necessários, é importante que esses dados não sejam acessíveis por padrão
 
-# <span style="color:#FFAB76">Detectabilidade</span>
+# <span style="color:#FFAB76">*4. Detectabilidade*</span>
 
 ### O que é? 
 Ser capaz de distinguir suficientemente se um item de interesse existe ou não.
@@ -860,7 +832,7 @@ Os metadados dos resultados da consulta revelam mais do que o necessário (por e
 - Muitas vezes saber que dados existem pode revelar informações adicionais, mesmo sem o acesso específico a um conjunto de dados
 - Refere-se principalmente a preocupações com meta-informação que pode ser extraída pela parte receptora.
 
-## <span style="color:#EA5C2B">5. Desconhecimento</span>
+# <span style="color:#EA5C2B">*5. Unawareness (desconhecimento)*</span>
 
 ### O que é?
 
@@ -1005,7 +977,7 @@ Dados de wearables estão sendo usados ​​para um estudo de pesquisa, mas: 1)
 - O sistema deve entender as consequências da revogação do consentimento
 - Isso pode ser um recurso diretamente disponível para o titular dos dados ou pode ser feito indiretamente. Em ambos os casos, um processo interno deve estar em vigor como apoio.
 
-## <span style="color:#cd2e4f">Não conformidade</span>
+# <span style="color:#cd2e4f">*6. Não conformidade*</span>
 
 ### O que é?
 
