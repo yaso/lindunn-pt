@@ -4,8 +4,6 @@
 
 **[Possibilidades](#alternativas)**  
 
-### CARTAS
-
 <details>
 
 <summary>
