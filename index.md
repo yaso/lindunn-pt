@@ -4,15 +4,9 @@
 
 **[Possibilidades](#alternativas)**  
 
-<details>
-
-<summary>
-<span style="display: inline-block">
+### CARTAS
 
 ### **[1. Linkabilidade](#1-linkabilidade-1)**
-
-</span>
-</summary>
 
 [O que é?](#o-que-é)
 
@@ -33,8 +27,6 @@
 [Linkabilidade de dados guardados (L6)](#linkabilidade-de-dados-guardados-l6) 
 
 [Dados recuperados vinculados (L7)](#dados-recuperados-vinculados-l7) 
-
-</details>
 
 
 ## **[2. Identificabilidade](#identificabilidade)**
